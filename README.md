@@ -59,5 +59,5 @@ The dashboard contains multiple visual elements, each serving a specific purpose
 
 ## 🤝 Connect with Me  
 📬 **Open to feedback, discussions, and collaborations!**  
-💼 **LinkedIn:** [www.linkedin.com/in/vaibhav-bari-915bb5202](https://www.linkedin.com/in/vaibhav-bari-915bb5202)  
+💼 **LinkedIn:** Vaibhav Bari [www.linkedin.com/in/vaibhav-bari-915bb5202](https://www.linkedin.com/in/vaibhav-bari-915bb5202)  
 
