@@ -1,5 +1,5 @@
 # 🚗 Car Sales Dashboard (Tableau)  
-
+Car Sales Dashboard Car Sales Dashboard .png
 ## 📌 Overview  
 This **interactive Tableau dashboard** provides an in-depth analysis of **car sales performance, revenue trends, and customer preferences.** The dashboard allows businesses to track **key financial indicators, dealership performance, and consumer buying patterns** to make data-driven decisions.  
 
